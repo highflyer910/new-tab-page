@@ -1,0 +1,21 @@
+
+body {
+  background: linear-gradient(#d5eaa8 50%, rgba(255,255,255,0) 0) 0 0,
+  radial-gradient(circle closest-side, #d5eaa8 53%, rgba(255,255,255,0) 0) 0 0,
+  radial-gradient(circle closest-side, #d5eaa8 50%, rgba(255,255,255,0) 0) 55px 0 #392d72;
+  background-size: 110px 200px;
+  background-repeat: repeat-x;
+  height: 98vh;
+  text-align: center;
+  color: #d5eaa8;
+  font-size: 2rem;
+  font-family: 'Barriecito', cursive;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-transform: uppercase;
+}
+.advice {
+  max-width: 800px;
+}
+
