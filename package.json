@@ -15,7 +15,11 @@
   },
   "dependencies": {
     "axios": "^0.21.1",
+<<<<<<< HEAD
     "vue": "^2.6.12"
+=======
+    "vue": "^2.6.10"
+>>>>>>> 06d496237b08616160445aeff9c79dcdff17ca82
   },
   "devDependencies": {
     "@babel/core": "^7.13.10",
@@ -32,7 +36,7 @@
     "ejs": "^3.1.6",
     "file-loader": "^6.2.0",
     "mini-css-extract-plugin": "^0.4.4",
-    "node-sass": "^4.9.3",
+    "node-sass": "^4.13.1",
     "sass-loader": "^7.1.0",
     "vue-loader": "^15.9.6",
     "vue-template-compiler": "^2.6.12",
